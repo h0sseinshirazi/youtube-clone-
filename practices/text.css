@@ -1,0 +1,84 @@
+
+    p {
+        font-family: roboto;
+        margin-top: 0px;
+        margin-bottom: 0px
+    }
+
+    .youtube {
+        font-family: Arial;
+        font-size: 18px;
+        font-weight: bold;
+        width: 285px;
+        line-height: 24px;
+
+        margin-bottom: 5px;
+    }
+
+
+
+    .youtube-stats {
+        font-family: Arial;
+        font-size: 14px;
+        color: #606060;
+        margin-top: 0px;
+
+        margin-bottom: 20px;
+        
+    }
+
+
+
+
+
+    .youtube-channel {
+        font-family: Arial;
+        font-size: 14px;
+        color: #606060;
+        margin-top: 0;
+        
+        
+        
+    }
+
+
+
+
+    .youtube-dec {
+        font-family: Arial;
+        font-size: 14px;
+        color: #606060;
+        margin-top: 0;
+        width: 300;
+        line-height: 22px;
+        margin-bottom: 100px;
+        
+        
+        
+    }
+
+
+
+    .apple {
+        margin-bottom: 50px;
+        font-size: 14px;
+        background-color: #e34140;
+        color: white;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        
+       
+    }
+
+
+    .span-apple {
+            color: white;
+    }
+
+
+
+
+    .span-apple:hover {
+        text-decoration: underline;
+    }
